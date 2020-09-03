@@ -23,6 +23,7 @@ namespace TstQuiz
         public MainWindow()
         {
             InitializeComponent();
+            //------------
         }
     }
 }
