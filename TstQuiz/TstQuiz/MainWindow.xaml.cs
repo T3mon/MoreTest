@@ -27,17 +27,20 @@ namespace TstQuiz
 
         private void Gay_Click(object sender, RoutedEventArgs e)
         {
-
+            //WhyAreYouGay taskWindow = new WhyAreYouGay();
+            //taskWindow.Show();
         }
 
         private void Dawn_Click_1(object sender, RoutedEventArgs e)
         {
-
+            //TestNaDebila taskWindow = new TestNaDebila();
+            //taskWindow.Show();
         }
 
         private void Coi_Click_2(object sender, RoutedEventArgs e)
         {
-
+            //CoiTest taskWindow = new CoiTest();
+            //taskWindow.Show();
         }
     }
 }
