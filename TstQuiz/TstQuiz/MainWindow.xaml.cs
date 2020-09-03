@@ -24,5 +24,20 @@ namespace TstQuiz
         {
             InitializeComponent();
         }
+
+        private void Gay_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Dawn_Click_1(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Coi_Click_2(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
