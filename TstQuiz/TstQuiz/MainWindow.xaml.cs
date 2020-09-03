@@ -39,8 +39,8 @@ namespace TstQuiz
 
         private void Coi_Click_2(object sender, RoutedEventArgs e)
         {
-            //CoiTest taskWindow = new CoiTest();
-            //taskWindow.Show();
+            CoiTest taskWindow = new CoiTest();
+            taskWindow.Show();
         }
     }
 }
